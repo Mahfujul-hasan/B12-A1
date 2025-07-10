@@ -116,5 +116,54 @@ header {
   font-weight: 400;
   
 }
+.users-feedback-container{
+   margin: auto 150px;
+}
+.user-feedback-title{
+  text-align: center;
+  font-size: 42px;
+  font-weight: 700;
+  margin-bottom: 50px;
+}
+.users-card{
+  border-radius: 1px solid #F2EDED;
+  background-color: rgba(255, 255, 255, 0.50);
+  border-radius: 14px;
+  padding: 24px;
+}
+.feedback-info{
+  margin-bottom: 24px;
+}
+.feedback-title{
+  font-size: 24px;
+  font-weight: 600;
+  margin-bottom: 8px;
+}
+.feedback-description{
+  font-size: 16px;
+  font-weight: 400;
+}
+.reviewer-name{
+  font-size: 16px;
+  font-weight: 600;
+  color: #666666;
+}
+.date{
+  font-size: 16px;
+  font-weight: 400;
+  color: #666666;
+}
+.reviewer-container{
+  display: flex;
+  gap: 12px;
+}
+.star{
+  margin-bottom: 24px;
+}
+.user-card-container{
+  display: flex;
+  justify-content: space-evenly;
+  gap: 20px;
+}
 
 
